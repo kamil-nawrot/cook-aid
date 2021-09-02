@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CookAid</string>
+    <string name="cookaid">- CookAid -</string>
+    <string name="suggested_recipes">Suggested Recipes</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="sample_recipe">Sample Recipe</string>
+    <string name="image_of_the_meal_from_recipe">Image of the Meal from Recipe</string>
+    <string name="back_to_dashboard_button">Back to Dashboard Button</string>
+    <string name="add_new_recipe">Add new recipe</string>
+    <string name="your_recipes">Your Recipes</string>
+    <string name="created_by_kamil_nawrot_data_retrieved_from_themealdb_com">Created by Kamil Nawrot. Data retrieved from TheMealDb.com</string>
+    <string name="nothing_here_find_some_favourite_recipes_or_create_your_own">Nothing here. Find some favourite recipes or create your own!</string>
+</resources>
